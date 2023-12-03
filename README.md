@@ -55,7 +55,7 @@ To run this project locally, follow these steps:
 <img src="https://github.com/ar-0911/Chat-App-Flutter/assets/92566219/b36fb006-2940-43d9-b82d-fadbde16a393" alt="3" width="150"/>
 <img src="https://github.com/ar-0911/Chat-App-Flutter/assets/92566219/db0f41da-fb63-4ddf-a824-92e00513b36c" alt="4" width="150"/>
 
-##Future improvements 
+## Future improvements 
 1. **Google Sign-In Integration:**
    - Allow users to sign in using their Google accounts, providing a convenient alternative to traditional username and password authentication.
 
