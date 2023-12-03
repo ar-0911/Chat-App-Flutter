@@ -56,17 +56,19 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                     child: Image.asset('images/logo.png'),
                   ),
                 ),
-                SizedBox(
-                  child: AnimatedTextKit(
-                    animatedTexts: [
-                      TypewriterAnimatedText(
-                        'Flash Chat',
-                        textStyle: Theme.of(context).textTheme.bodyLarge,
-                        cursor: '_',
-                        speed: const Duration(milliseconds: 200),
-                      ),
-                    ],
-                    displayFullTextOnTap: true,
+                Expanded(
+                  child: SizedBox(
+                    child: AnimatedTextKit(
+                      animatedTexts: [
+                        TypewriterAnimatedText(
+                          'Flash Chat',
+                          textStyle: Theme.of(context).textTheme.bodyLarge,
+                          cursor: '_',
+                          speed: const Duration(milliseconds: 200),
+                        ),
+                      ],
+                      displayFullTextOnTap: true,
+                    ),
                   ),
                 ),
               ],
