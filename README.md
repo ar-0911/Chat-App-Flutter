@@ -1,4 +1,4 @@
-# Flash Chat
+# ⚡Flash Chat⚡
 
 Flash Chat is a simple real-time messaging app built with Flutter and Firebase. It allows users to send and receive messages instantly, creating a seamless and engaging chat experience.
 
@@ -50,11 +50,27 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-<img src="screenshots/screenshot1.png" alt="1" width="150"/>
-<img src="screenshots/screenshot2.png" alt="2" width=150"/>
-<img src="screenshots/screenshot3.png" alt="3" width="150"/>
-<img src="screenshots/screenshot4.png" alt="4" width="150"/>
+<img src="https://github.com/ar-0911/Chat-App-Flutter/assets/92566219/3a1a05c2-98bd-4c35-9c91-ee3c2575187c" alt="1" width="150"/>
+<img src="https://github.com/ar-0911/Chat-App-Flutter/assets/92566219/7f177531-b1db-4928-a38a-bef1c37c80cd" alt="2" width=150"/>
+<img src="https://github.com/ar-0911/Chat-App-Flutter/assets/92566219/b36fb006-2940-43d9-b82d-fadbde16a393" alt="3" width="150"/>
+<img src="https://github.com/ar-0911/Chat-App-Flutter/assets/92566219/db0f41da-fb63-4ddf-a824-92e00513b36c" alt="4" width="150"/>
 
+## Future improvements 
+1. **Google Sign-In Integration:**
+   - Allow users to sign in using their Google accounts, providing a convenient alternative to traditional username and password authentication.
+
+2. **Profile Pictures and Personalization:**
+   - Enhance user experience by allowing users to upload and set profile pictures.
+   - Add personalization options such as customizing chat backgrounds or themes.
+
+3. **Multiple Channels/Group Chats:**
+   - Implement the ability for users to create or join multiple channels or group chats.
+
+4. **Push Notifications:**
+   - Implement push notifications to alert users about new messages or mentions when the app is not actively open.
+
+5. **Message Editing and Deletion:**
+   - Enable users to edit or delete their sent messages within a specific time frame, enhancing control over their conversations.
+     
 ## Contributing
-
-feel free to make a pull request to contribute.
+Feel free to make a pull request to contribute.
