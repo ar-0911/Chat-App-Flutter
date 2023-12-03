@@ -1,4 +1,4 @@
-# Flash Chat
+# ⚡⚡Flash Chat
 
 Flash Chat is a simple real-time messaging app built with Flutter and Firebase. It allows users to send and receive messages instantly, creating a seamless and engaging chat experience.
 
