@@ -50,10 +50,10 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-<img src="[screenshots/screenshot1.png](https://github.com/ar-0911/Chat-App-Flutter/assets/92566219/3a1a05c2-98bd-4c35-9c91-ee3c2575187c)" alt="1" width="150"/>
-<img src="[screenshots/screenshot2.png](https://github.com/ar-0911/Chat-App-Flutter/assets/92566219/7f177531-b1db-4928-a38a-bef1c37c80cd)" alt="2" width=150"/>
-<img src="[screenshots/screenshot3.png](https://github.com/ar-0911/Chat-App-Flutter/assets/92566219/b36fb006-2940-43d9-b82d-fadbde16a393)" alt="3" width="150"/>
-<img src="[screenshots/screenshot4.png](https://github.com/ar-0911/Chat-App-Flutter/assets/92566219/db0f41da-fb63-4ddf-a824-92e00513b36c)https://github.com/ar-0911/Chat-App-Flutter/assets/92566219/db0f41da-fb63-4ddf-a824-92e00513b36c" alt="4" width="150"/>
+<img src="https://github.com/ar-0911/Chat-App-Flutter/assets/92566219/3a1a05c2-98bd-4c35-9c91-ee3c2575187c" alt="1" width="150"/>
+<img src="https://github.com/ar-0911/Chat-App-Flutter/assets/92566219/7f177531-b1db-4928-a38a-bef1c37c80cd" alt="2" width=150"/>
+<img src="https://github.com/ar-0911/Chat-App-Flutter/assets/92566219/b36fb006-2940-43d9-b82d-fadbde16a393" alt="3" width="150"/>
+<img src="https://github.com/ar-0911/Chat-App-Flutter/assets/92566219/db0f41da-fb63-4ddf-a824-92e00513b36c" alt="4" width="150"/>
 
 ## Contributing
 
